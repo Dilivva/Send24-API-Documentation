@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="2ee09193">
+        <description>Created after removal of "Default-topic" from Second Instance</description>
+        <accepts>Default-topic-md.html</accepts>
+    </rule>
+    <rule id="4760a26d">
+        <description>Created after removal of "Send24 API Keys Dashboard" from Second Instance</description>
+        <accepts>agg.html</accepts>
+    </rule>
+    <rule id="633408db">
+        <description>Created after removal of "Usage" from Second Instance</description>
+        <accepts>usage.html</accepts>
+    </rule>
+    <rule id="3ddc1b5b">
+        <description>Created after removal of "Add Shipping Method" from Second Instance</description>
+        <accepts>add-shipping-method.html</accepts>
+    </rule>
+    <rule id="f8970e1">
+        <description>Created after removal of "Settings Screenshots" from Second Instance</description>
+        <accepts>settings-screenshots.html</accepts>
+    </rule>
+    <rule id="68eff22e">
+        <description>Created after removal of "Set Up Delivery Options" from Second Instance</description>
+        <accepts>setup.html</accepts>
+    </rule>
+    <rule id="4a5d8860">
+        <description>Created after removal of "Configuration" from Send24 Logistics Plugin for WooCommerce</description>
+        <accepts>Configuration.html</accepts>
+    </rule>
+    <rule id="6124d2d8">
+        <description>Created after removal of "Send24 Dashboard" from Send24 Logistics Plugin for WooCommerce
+        </description>
+        <accepts>send.html</accepts>
+    </rule>
+    <rule id="7668f94a">
+        <description>Created after removal of "Reuse content" from Send24 Logistics Plugin for WooCommerce</description>
+        <accepts>Reuse-content.html</accepts>
+    </rule>
+</rules>

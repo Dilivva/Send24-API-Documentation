@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="si"
+                 name="Send24 Logistics Plugin for WooCommerce"
+                 start-page="second-instance.md">
+
+    <toc-element topic="second-instance.md"/>
+    <toc-element topic="Send24-Logistics.md"/>
+    <toc-element topic="Installation.md"/>
+    <toc-element topic="api-keys-configuration.md"/>
+    <toc-element topic="mode-configuration.md"/>
+    <toc-element topic="order.md"/>
+    <toc-element topic="order-screen.md"/>
+    <toc-element topic="wahh.md"/>
+    <toc-element topic="rerr.md"/>
+</instance-profile>
